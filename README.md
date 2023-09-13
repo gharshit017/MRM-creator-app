@@ -5,14 +5,12 @@ This is a web application built with Next.js, Tailwind CSS, Redux, Node.js, and 
 Getting Started
 To get started with the MRM PDF Generator, follow these steps:
 
-1. Clone the repository:
-git clone https://github.com/OmPr366/MRMCreatorApplication.git
 
-2. Install dependencies:
+1. Install dependencies:
 cd MRMCreatorApplication
 npm install
 
-3. Start the application:
+2. Start the application:
 npm run dev
 
 
